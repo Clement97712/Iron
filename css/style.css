@@ -1,0 +1,25 @@
+.img{
+    width: 160px;
+    height: 114px; 
+    margin: 30px;
+}
+
+.boite{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.container{
+    margin: 30px;
+    padding: 38px;
+    margin: 0% 25%;
+    width: auto;
+    height: auto;
+    /*first value:bottom and top second value right and left*/
+    visibility: hidden;
+}
+
+#p{
+    text-align: center;
+}
